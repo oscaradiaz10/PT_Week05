@@ -1,0 +1,4 @@
+Info: Mon May 27 21:22:35 CDT 2024 - Hello
+WARNING: Mon May 27 21:22:35 CDT 2024 - This is a warning
+ERROR: Mon May 27 21:22:35 CDT 2024 - Ooops this is an error!
+FATAL: Mon May 27 21:22:35 CDT 2024 - Fatal error
